@@ -63,16 +63,17 @@ Run
 python app.py
 ```
 
----
+## 🚀 Deployment
 
-## 🎯 Future Improvements
+This application is deployed on **Hugging Face Spaces**.
 
-- Chat History
-- Voice Input
-- PDF Notes Upload
-- Dark Mode
-- Export Notes
-- Quiz Generator
+### Deployment Steps
+
+1. Create a new **Gradio Space** on Hugging Face.
+2. Upload the project files (`app.py`, `requirements.txt`, `README.md`).
+3. Add the `GEMINI_API_KEY` as a **Secret** in the Space Settings.
+4. Ensure `requirements.txt` includes all required packages.
+5. Hugging Face automatically builds and deploys the application.
 
 ---
 
