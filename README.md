@@ -1,3 +1,14 @@
+---
+title: AI Study Assistant
+emoji: 📚
+colorFrom: blue
+colorTo: green
+sdk: gradio
+sdk_version: "5.35.0"
+app_file: app.py
+pinned: false
+---
+
 # 📚 AI Study Assistant
 
 An AI-powered Study Assistant built using **Python**, **Google Gemini API**, and **Gradio**.
